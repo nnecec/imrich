@@ -33,6 +33,7 @@ module.exports = {
     'import/no-unresolved': 0,
     'no-use-before-define': [0],
     '@typescript-eslint/no-use-before-define': [1],
-    'react/prop-types': 0
+    'react/prop-types': 0,
+    'no-unused-vars': 1
   }
 }
